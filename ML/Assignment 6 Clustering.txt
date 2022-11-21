@@ -1,3 +1,4 @@
+Refer From This Link- https://stackabuse.com/k-means-clustering-with-the-elbow-method/
 Database download from- https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 
 # -- coding: utf-8 --
